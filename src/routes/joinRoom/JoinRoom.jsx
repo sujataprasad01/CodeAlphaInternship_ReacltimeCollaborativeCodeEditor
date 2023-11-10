@@ -1,3 +1,5 @@
+import './JoinRoom.css'
+
 export default function JoinRoom() {
 
     function handleRoomSubmit(e) {
